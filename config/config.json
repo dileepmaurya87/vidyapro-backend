@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vidyapro",
+    "password": "08ZbRl*9iDBpSIdY",
+    "database": "db_vidyapro",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "vidyapro",
+    "password": "08ZbRl*9iDBpSIdY",
+    "database": "db_vidyapro",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "vidyapro",
+    "password": "08ZbRl*9iDBpSIdY",
+    "database": "db_vidyapro",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
